@@ -32,15 +32,6 @@
                 <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name="com.cloverflavor.nhkplusw.DetailsActivity"
-            android:exported="false" />
-        <activity
-            android:name="com.cloverflavor.nhkplusw.PlaybackActivity"
-            android:exported="false" />
-        <activity
-            android:name="com.cloverflavor.nhkplusw.BrowseErrorActivity"
-            android:exported="false" />
     </application>
 
 </manifest>

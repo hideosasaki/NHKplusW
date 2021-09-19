@@ -6,10 +6,11 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity"
     tools:deviceIds="tv"
-    tools:ignore="MergeRootFrame" >
+    tools:ignore="MergeRootFrame">
 
-    <WebView
-        android:id="@+id/web"
+    <com.cloverflavor.nhkplusw.MyWebView
+        android:id="@+id/webView"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
+
 </FrameLayout>

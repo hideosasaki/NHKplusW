@@ -7,8 +7,8 @@ android {
     compileSdk 30
 
     defaultConfig {
-        applicationId "com.cloverflavor.myapplication"
-        minSdk 21
+        applicationId "com.cloverflavor.nhkplusw"
+        minSdk 22
         targetSdk 22
         versionCode 1
         versionName "1.0"
